@@ -1,0 +1,6 @@
+{
+  "versionFile": "app-version",
+  "versionFileType": "json",
+  "tagVersions": true,
+  "pushChanges": true
+}
